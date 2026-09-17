@@ -3,6 +3,7 @@
 
 Bash
 python -m pip install pyautogui opencv-python pillow
+
 💡 提示：若直接執行 pip 出現 'pip' 不是内部或外部命令，請務必使用 python -m pip install ... 的寫法。
 
 🚀 使用方法 (Usage)
